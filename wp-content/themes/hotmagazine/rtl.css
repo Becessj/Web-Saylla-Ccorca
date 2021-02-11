@@ -1,0 +1,221 @@
+/*
+Theme Name: construct
+Description: Adds support for languages written in a Right To Left (RTL) direction.
+It's easy, just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+See: https://codex.wordpress.org/Right_to_Left_Language_Support
+*/
+
+/**
+ * Table of Contents:
+ *
+ * 1.0 - Reset
+ */
+
+
+/**
+ * 1.0 Reset
+ */
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+caption,
+th,
+td {
+	text-align: right;
+}
+
+.owl-theme .owl-controls{
+	left: 0px;
+	right: auto;
+	margin-left: 0px !important;
+	margin-right: 0px !important;
+}
+.features-today-box .owl-theme .owl-controls, .feature-video .owl-theme .owl-controls{
+	margin-left: 12px !important;
+}
+.owl-theme .owl-controls .owl-buttons div.owl-next{
+  float: right;
+}
+.owl-theme .owl-controls .owl-buttons div.owl-prev{
+  float: left;
+}
+.owl-theme .owl-controls .owl-buttons > div:hover{
+	cursor: pointer;
+}
+ul.list-posts > li .thumb-wrap{
+	float: right;
+}
+ul.list-posts > li .thumb-wrap .edit-post{
+	right: 0px;
+	left: auto;
+}
+ul.list-posts > li img{
+	float: right;
+	margin-right: 0px;
+	margin-left: 20px;
+}
+ul.post-tags li i{
+	margin-right: 0px;
+	margin-left: 9px;
+}
+ul.post-tags li{
+	margin-right: 0px;
+	margin-left: 7px;
+}
+.widget_archive ul li a, .widget_categories ul li a{
+	float: right;
+}
+.widget_categories ul li span{
+	float: left;
+}
+footer .footer-last-line nav.footer-nav ul li:before{
+	margin-right: 0px;
+	margin-left: 13px;
+}
+footer .posts-widget ul.list-posts > li .post-content{
+	margin-left: 0px;
+	margin-right: 100px;
+}
+.pagination-box p{
+	text-align: left;
+}
+.top-line ul.top-line-list li:before, .top-line ul.top-line-list.top-menu:before{
+	margin-right: 0px;
+	margin-left: 20px;
+}
+.top-line ul.top-line-list li{
+	margin-left: 18px;
+	margin-right: 0px;
+}
+.navbar-header{
+	float: right;
+}
+.logo-advertisement .desktop-advert, .logo-advertisement .tablet-advert{
+	float: left;
+}
+.navbar-form button {
+	left: 13px;
+	right: auto;
+}
+.navbar-nav li.drop ul.dropdown{
+	right: 0px;
+	left: auto;
+}
+.navbar-nav li.drop ul.dropdown li .dropdown{
+	right: 100%;
+	left: auto;
+}
+.navbar-nav li.drop ul.dropdown li.drop > a:after{
+	left: 12px;
+	content: "\f104";
+	right: auto;
+}
+.sidebar ul.social-share li a{
+	float: right;
+
+	margin-right: 0px;
+	margin-left: 16px;
+}
+.sidebar ul.social-share li a.facebook:after {
+  border: 4px solid #436feb;
+  border-right-color: #436feb;
+  border-bottom-color: transparent;
+  border-top-color: transparent;
+  border-left-color: transparent;
+}
+.sidebar ul.social-share li a.rss:after {
+  border: 4px solid #f0771e;
+  border-right-color: #f0771e;
+  border-bottom-color: transparent;
+  border-top-color: transparent;
+  border-left-color: transparent;
+}
+.sidebar ul.social-share li a.twitter:after {
+  border: 4px solid #43c9eb;
+  border-right-color: #43c9eb;
+  border-bottom-color: transparent;
+  border-top-color: transparent;
+  border-left-color: transparent;
+}
+.sidebar ul.social-share li a.google:after {
+  border: 4px solid #f14133;
+  border-right-color: #f14133;
+  border-bottom-color: transparent;
+  border-top-color: transparent;
+  border-left-color: transparent;
+}
+.sidebar ul.social-share li a:after{
+	left: auto;
+	right: 100%;
+}
+a.read-more-button i{
+	margin-left: 9px;
+	margin-right: 0px;
+}
+form.mc4wp-form button{
+	float: left;
+}
+.sidebar .tab-posts-widget ul.nav-tabs li{
+	float: right;
+}
+.sidebar .tab-posts-widget ul.nav-tabs{
+	padding: 0px;
+}
+.single-post-box .comment-area-box ul li .comment-box .comment-content h4 a.comment-reply-link{
+	float: left;
+}
+.comment-reply-link:before, .single-post-box .comment-area-box ul li .comment-box .comment-content span i{
+	margin-right: 0px;
+	margin-left: 9px;
+}
+.ticker-news-box span.new-news{
+	float: right;
+	margin: 8px 20px 0 0px;
+	display: none;
+}
+form.search-form button{
+	right: auto;
+	left: 13px;
+}
+.ticker-news-box span.breaking-news{
+	float: right;
+}
+.ticker-news-box span.breaking-news:after{
+	right: auto;
+	left: -7px;
+}
+.single-post-box .about-more-autor ul.nav-tabs{
+	padding: 0px;
+}
+.single-post-box .comment-area-box ul li .comment-box img{
+	float: right;
+}
+.single-post-box .comment-area-box ul li .comment-box .comment-content{
+	margin-left: 0px;
+	margin-right: 120px;
+}
+.single-post-box .comment-area-box ul.comment-tree .children .comment-box{
+	padding-left: 0px;
+	padding-right: 100px;
+}
+@media (min-width: 768px){
+	.navbar-left {
+	  float: right !important;
+	}
+	.navbar-nav>li, .block-wrapper .col-sm-8 {
+	  float: right;
+	}
+	.navbar-nav>li {
+	  float: right;
+	}
+	.navbar-nav > li > a{
+		padding: 20px 12px 20px 12px;
+	}
+	.navbar-right {
+  float: left !important;
+}

@@ -1,0 +1,1424 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-28 23:45+0700\n"
+"PO-Revision-Date: 2021-02-04 14:52+0000\n"
+"Last-Translator: \n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: category\n"
+"X-Poedit-SearchPath-2: bbpress\n"
+"X-Poedit-SearchPath-3: framework/widget\n"
+"X-Poedit-SearchPath-4: intro\n"
+"X-Poedit-SearchPath-5: posts\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+"X-Loco-Version: 2.5.0; wp-5.6.1"
+
+#: functions.php:1844
+msgid " Both Sidebar"
+msgstr ""
+
+#: comments.php:18
+msgid "% Comments"
+msgstr ""
+
+#: functions.php:1646
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:1645
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: comments.php:47
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:18
+msgid "0 Comments"
+msgstr ""
+
+#: comments.php:18
+msgid "1 Comment"
+msgstr ""
+
+#. Author of the theme
+msgid "<a href=\"http://qkthemes.net\">qkthemes</a>"
+msgstr ""
+
+#: functions.php:390
+msgid "<i class=\"fa fa-comments-o\"></i><span>%</span>"
+msgstr ""
+
+#: functions.php:390
+msgid "<i class=\"fa fa-comments-o\"></i><span>0</span> "
+msgstr ""
+
+#: functions.php:390
+msgid "<i class=\"fa fa-comments-o\"></i><span>1</span>"
+msgstr ""
+
+#: single.php:238 fullwidth.php:199 introtop.php:211 fullbanner.php:200
+#: designsingle.php:262 bothsidebar.php:266
+msgid "About The Author"
+msgstr ""
+
+#: vc_functions.php:1359
+msgid "Add images"
+msgstr ""
+
+#: framework/theme-configs.php:468
+msgid "Advertisement Settings"
+msgstr ""
+
+#: functions.php:2114
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: single.php:151 fullwidth.php:112 introtop.php:125 fullbanner.php:113
+#: designsingle.php:176 bothsidebar.php:188
+msgid "Amazing"
+msgstr ""
+
+#: functions.php:1500
+msgid "Appears in main sidebar of the site."
+msgstr ""
+
+#: functions.php:1509
+msgid "Appears in small sidebar of the site."
+msgstr ""
+
+#: functions.php:1539
+msgid "Appears in the footer section 1 of the site."
+msgstr ""
+
+#: functions.php:1548
+msgid "Appears in the footer section 2 of the site."
+msgstr ""
+
+#: functions.php:1557 functions.php:1566
+msgid "Appears in the footer section 3 of the site."
+msgstr ""
+
+#: framework/theme-configs.php:271
+msgid "Apple Touch Icon"
+msgstr ""
+
+#: framework/theme-configs.php:304
+msgid "Apple Touch Icon 114x114"
+msgstr ""
+
+#: framework/theme-configs.php:282
+msgid "Apple Touch Icon 57x57"
+msgstr ""
+
+#: framework/theme-configs.php:293
+msgid "Apple Touch Icon 72x72"
+msgstr ""
+
+#: author.php:16
+msgid "Author Details"
+msgstr ""
+
+#. Name of the template
+msgid "Author List"
+msgstr ""
+
+#: functions.php:1859
+msgid "Avatar"
+msgstr ""
+
+#: functions.php:2319 footer.php:127
+msgid "Back to"
+msgstr ""
+
+#: single.php:165 fullwidth.php:126 introtop.php:139 fullbanner.php:127
+#: designsingle.php:190 bothsidebar.php:202
+msgid "Bad"
+msgstr ""
+
+#: functions.php:1842
+msgid "Banner Fullwidth"
+msgstr ""
+
+#: functions.php:2111
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:2110
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: vc_functions.php:343
+msgid "Block custom class"
+msgstr ""
+
+#: vc_functions.php:817
+msgid "Block Tag"
+msgstr ""
+
+#: vc_functions.php:876 vc_functions.php:900
+msgid "Block Title"
+msgstr ""
+
+#: framework/theme-configs.php:387
+msgid "Blog Settings"
+msgstr ""
+
+#: framework/theme-configs.php:349
+msgid "Body Font"
+msgstr ""
+
+#. Name of the template
+msgid "Boxed Page"
+msgstr ""
+
+#: functions.php:1516
+msgid "Builder Sidebar 1"
+msgstr ""
+
+#: functions.php:1526
+msgid "Builder Sidebar 2"
+msgstr ""
+
+#: category.php:45 functions.php:91 functions.php:496 functions.php:636
+#: functions.php:724 functions.php:734 functions.php:801 single.php:81
+#: fullwidth.php:23 404.php:46 introtop.php:55 fullbanner.php:23
+#: designsingle.php:81 template-home.php:50 index.php:45 bothsidebar.php:118
+#: posts/thumb.php:20 posts/full.php:12 posts/grid1.php:23
+#: posts/full-video.php:12 posts/full-gallery.php:12 posts/standard.php:7
+#: posts/grid3.php:20 vc_templates/qk_carousel3.php:89
+#: vc_templates/qk_posts_2col.php:99 vc_templates/qk_posts_2col.php:108
+#: vc_templates/qk_posts_2col.php:174 vc_templates/qk_posts4.php:72
+#: vc_templates/qk_posts4.php:95 vc_templates/qk_posts_full.php:95
+#: vc_templates/qk_posts1.php:67 vc_templates/qk_posts1.php:81
+#: vc_templates/qk_posts1.php:95 vc_templates/qk_posts1.php:110
+#: vc_templates/qk_posts_carousel2.php:85
+#: vc_templates/qk_slider_caption.php:102
+#: vc_templates/qk_slider_caption.php:116
+#: vc_templates/qk_slider_caption.php:146
+#: vc_templates/qk_featured_slider.php:74
+#: vc_templates/qk_featured_carousel.php:80 vc_templates/qk_top_stories.php:48
+#: vc_templates/qk_posts_grid.php:93 vc_templates/qk_posts_grid.php:107
+#: vc_templates/qk_posts_list.php:129 vc_templates/qk_posts_list.php:147
+#: vc_templates/qk_posts_2col2.php:99 vc_templates/qk_posts_2col2.php:108
+#: vc_templates/qk_posts_2col2.php:184 vc_templates/qk_post_standard.php:31
+#: vc_templates/qk_post_standard.php:75 vc_templates/qk_post2.php:64
+#: vc_templates/qk_posts_lists2.php:179 vc_templates/qk_posts_lists2.php:203
+#: vc_templates/qk_post3.php:61 vc_templates/qk_post3.php:86
+#: vc_templates/qk_posts3.php:83 vc_templates/qk_post4.php:60
+#: vc_templates/qk_slider_caption2.php:93 framework/widget/featured.php:56
+msgid "by"
+msgstr ""
+
+#: vc_functions.php:27
+msgid "Caption"
+msgstr ""
+
+#: vc_functions.php:522
+msgid "Class"
+msgstr ""
+
+#. Name of the template
+msgid "Coming Soon"
+msgstr ""
+
+#: comments.php:81
+msgid "Comment"
+msgstr ""
+
+#: functions.php:2309
+msgid "Confirm Password"
+msgstr ""
+
+#: vc_functions.php:9 vc_functions.php:60 vc_functions.php:147
+#: vc_functions.php:237 vc_functions.php:294 vc_functions.php:378
+#: vc_functions.php:428 vc_functions.php:474 vc_functions.php:553
+#: vc_functions.php:616 vc_functions.php:669 vc_functions.php:706
+#: vc_functions.php:751 vc_functions.php:791 vc_functions.php:836
+#: vc_functions.php:955 vc_functions.php:1023 vc_functions.php:1102
+#: vc_functions.php:1163 vc_functions.php:1225 vc_functions.php:1288
+#: vc_functions.php:1341 vc_functions.php:1408 vc_functions.php:1484
+#: vc_functions.php:1561 vc_functions.php:1662 vc_functions.php:1755
+#: vc_functions.php:1811
+msgid "Content"
+msgstr ""
+
+#: framework/theme-configs.php:640
+msgid "Copyright Text"
+msgstr ""
+
+#. Description of the theme
+msgid "Created by <a href=\"http://qkthemes.net\">QKThemes</a>"
+msgstr ""
+
+#: vc_functions.php:94 vc_functions.php:189 vc_functions.php:579
+#: vc_functions.php:923 vc_functions.php:992
+msgid "Custom Class"
+msgstr ""
+
+#: framework/theme-configs.php:373
+msgid "Custom CSS Code"
+msgstr ""
+
+#: framework/theme-configs.php:249
+msgid "Custom Favicon"
+msgstr ""
+
+#: vc_functions.php:154 vc_functions.php:1235 vc_functions.php:1350
+#: vc_functions.php:1418 vc_functions.php:1494 vc_functions.php:1571
+#: vc_functions.php:1672
+msgid "Custom Title"
+msgstr ""
+
+#: vc_functions.php:385
+msgid "Custom title"
+msgstr ""
+
+#: functions.php:1840
+msgid "Default"
+msgstr ""
+
+#: framework/theme-configs.php:449
+msgid "Default Category Layout"
+msgstr ""
+
+#: framework/theme-configs.php:433
+msgid "Default Single Blog Layout"
+msgstr ""
+
+#: framework/theme-configs.php:138
+msgid "Documentation"
+msgstr ""
+
+#: footer.php:114
+msgid "Don't have account."
+msgstr ""
+
+#: functions.php:1923
+msgid "Dribbble"
+msgstr ""
+
+#: comments.php:71
+msgid "Email"
+msgstr ""
+
+#: 404.php:143 404.php:243
+msgid "Error"
+msgstr ""
+
+#: functions.php:1735
+msgid "Example \"9.2\""
+msgstr ""
+
+#: functions.php:1744
+msgid "Example \"Good\""
+msgstr ""
+
+#: single.php:154 fullwidth.php:115 introtop.php:128 fullbanner.php:116
+#: designsingle.php:179 bothsidebar.php:191
+msgid "Excellent"
+msgstr ""
+
+#: framework/theme-configs.php:150
+msgid "Extensions"
+msgstr ""
+
+#: functions.php:1868
+msgid "Facebook"
+msgstr ""
+
+#: framework/theme-configs.php:660
+msgid "Facebook Url"
+msgstr ""
+
+#: framework/widget/featured.php:82
+msgid "Featured Posts"
+msgstr ""
+
+#: functions.php:1860
+msgid "field description (optional)"
+msgstr ""
+
+#: vc_functions.php:110
+msgid "Filter Style"
+msgstr ""
+
+#: framework/theme-configs.php:646
+msgid "Footer background"
+msgstr ""
+
+#: functions.php:207
+msgid "Footer Menu"
+msgstr ""
+
+#: framework/theme-configs.php:619
+msgid "Footer Settings"
+msgstr ""
+
+#: framework/theme-configs.php:639
+msgid "Footer Text"
+msgstr ""
+
+#: functions.php:1537
+msgid "Footer1 Widget Area"
+msgstr ""
+
+#: functions.php:1546
+msgid "Footer2 Widget Area"
+msgstr ""
+
+#: functions.php:1555
+msgid "Footer3 Widget Area"
+msgstr ""
+
+#: functions.php:1564
+msgid "Footer4 Widget Area"
+msgstr ""
+
+#: framework/theme-configs.php:240
+msgid "General Settings"
+msgstr ""
+
+#: single.php:157 fullwidth.php:118 introtop.php:131 fullbanner.php:119
+#: designsingle.php:182 bothsidebar.php:194
+msgid "Good"
+msgstr ""
+
+#: functions.php:1878
+msgid "Google"
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by chosen font(s), translate this to 'off'. Do not translate into your own language.
+#: functions.php:311
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: framework/theme-configs.php:680
+msgid "Google+ Url"
+msgstr ""
+
+#: framework/theme-configs.php:477
+msgid "Header Advertisement Content"
+msgstr ""
+
+#: framework/theme-configs.php:501
+msgid "Header Settings"
+msgstr ""
+
+#: framework/theme-configs.php:586
+msgid "Header Top line background"
+msgstr ""
+
+#. Name of the template
+msgid "Home Builder"
+msgstr ""
+
+#. Name of the theme
+msgid "Hotmagazine"
+msgstr ""
+
+#: framework/theme-configs.php:35 framework/theme-configs.php:36
+msgid "Hotmagazine Options"
+msgstr ""
+
+#. URI of the theme
+msgid "http://qkthemes.net"
+msgstr ""
+
+#: vc_functions.php:436 vc_functions.php:482
+msgid "IDs"
+msgstr ""
+
+#: vc_functions.php:19
+msgid "Image"
+msgstr ""
+
+#: vc_functions.php:563 vc_functions.php:626
+msgid "Insert Post ID"
+msgstr ""
+
+#: functions.php:1914
+msgid "Instagram"
+msgstr ""
+
+#: functions.php:2099
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:2098
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:2100
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:1725
+msgid "Intro Caption"
+msgstr ""
+
+#: functions.php:1841
+msgid "Intro on top"
+msgstr ""
+
+#: framework/theme-configs.php:673
+msgid "Istagram Url"
+msgstr ""
+
+#: vc_functions.php:197
+msgid "Items each Slide"
+msgstr ""
+
+#: vc_functions.php:1298
+msgid "Large Screen"
+msgstr ""
+
+#: bbpress/loop-single-topic.php:95
+msgid "Last Post"
+msgstr ""
+
+#: vc_functions.php:1820
+msgid "Latitude"
+msgstr ""
+
+#: comments.php:61
+msgid "Leave a Comment"
+msgstr ""
+
+#: vc_functions.php:1322
+msgid "Link"
+msgstr ""
+
+#: functions.php:1905
+msgid "Linkedin"
+msgstr ""
+
+#: framework/theme-configs.php:687
+msgid "Linkedin Url"
+msgstr ""
+
+#: framework/widget/popular.php:16
+msgid "Listing POPULAR Posts"
+msgstr ""
+
+#: framework/widget/random.php:16
+msgid "Listing Random Posts"
+msgstr ""
+
+#: functions.php:16
+msgid "Listing Recent Comments"
+msgstr ""
+
+#: framework/widget/featured.php:16
+msgid "Listing RECENT Posts"
+msgstr ""
+
+#: functions.php:2319 footer.php:108 footer.php:127
+msgid "Login"
+msgstr ""
+
+#: framework/theme-configs.php:260
+msgid "Logo"
+msgstr ""
+
+#: framework/theme-configs.php:599
+msgid "Logo image max height:"
+msgstr ""
+
+#: framework/theme-configs.php:593
+msgid "Logo padding:"
+msgstr ""
+
+#: vc_functions.php:1829
+msgid "Longitude"
+msgstr ""
+
+#: framework/theme-configs.php:485
+msgid "Loop Advertisement Content"
+msgstr ""
+
+#: footer.php:112
+msgid "Lost your password?"
+msgstr ""
+
+#: framework/theme-configs.php:607
+msgid "Main Header background image"
+msgstr ""
+
+#: functions.php:1498
+msgid "Main Widget Area"
+msgstr ""
+
+#: single.php:163 fullwidth.php:124 introtop.php:137 fullbanner.php:125
+#: designsingle.php:188 bothsidebar.php:200
+msgid "Mediocre"
+msgstr ""
+
+#: vc_functions.php:1306
+msgid "Medium Screen"
+msgstr ""
+
+#: framework/menu-item-custom-fields.php:52
+msgid "Mega DropDown"
+msgstr ""
+
+#: single.php:241 fullwidth.php:202 introtop.php:214 fullbanner.php:203
+#: designsingle.php:265 bothsidebar.php:269
+msgid "More From The Author"
+msgstr ""
+
+#: vc_functions.php:445
+msgid "Multiple categories filter:"
+msgstr ""
+
+#: comments.php:65
+msgid "Name"
+msgstr ""
+
+#: functions.php:206
+msgid "Navigation Menu"
+msgstr ""
+
+#: comments.php:48
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: category.php:181 category.php:253 author.php:168 index.php:180 index.php:252
+#: vc_templates/qk_posts_2col.php:208 vc_templates/qk_posts_full.php:111
+#: vc_templates/qk_posts_full.php:140 vc_templates/qk_posts_grid.php:137
+#: vc_templates/qk_posts_list.php:178 vc_templates/qk_posts_2col2.php:220
+#: vc_templates/qk_posts_lists2.php:238 category/3columns.php:62
+#: category/thumbleft.php:78 category/largeimage.php:77
+#: category/2colsidebar.php:77 category/bothsidebar.php:82
+#: category/video.php:79
+msgid "Next"
+msgstr ""
+
+#: single.php:110 fullwidth.php:72 introtop.php:85 fullbanner.php:73
+#: designsingle.php:137 bothsidebar.php:148
+msgid "Next page"
+msgstr ""
+
+#: category.php:164 category.php:236 author.php:157 index.php:163 index.php:235
+#: category/3columns.php:46 category/thumbleft.php:62
+#: category/largeimage.php:59 category/2colsidebar.php:61
+#: category/bothsidebar.php:67 category/video.php:63
+msgid "Nothing Found Here!"
+msgstr ""
+
+#: functions.php:130 framework/widget/random.php:93
+#: framework/widget/featured.php:100 framework/widget/popular.php:163
+msgid "Number of posts:"
+msgstr ""
+
+#: vc_functions.php:809 vc_functions.php:845 vc_functions.php:975
+#: vc_functions.php:1052 vc_functions.php:1122 vc_functions.php:1183
+#: vc_functions.php:1253 vc_functions.php:1436 vc_functions.php:1512
+#: vc_functions.php:1589 vc_functions.php:1690 vc_functions.php:1775
+msgid "Number Posts"
+msgstr ""
+
+#: vc_functions.php:86
+msgid "Number posts each slide"
+msgstr ""
+
+#: single.php:160 fullwidth.php:121 introtop.php:134 fullbanner.php:122
+#: designsingle.php:185 bothsidebar.php:197
+msgid "Okay"
+msgstr ""
+
+#: 404.php:144 404.php:244
+msgid ""
+"Oops! It looks like nothing was found at this location. Maybe try another "
+"link or a search?"
+msgstr ""
+
+#: vc_functions.php:571 vc_functions.php:634
+msgid "Or get latest post from Category"
+msgstr ""
+
+#: vc_functions.php:1368
+msgid "Or insert Post IDs"
+msgstr ""
+
+#: vc_functions.php:172
+msgid "Or Insert your category IDs Here:"
+msgstr ""
+
+#: vc_functions.php:1043
+msgid "Or multiple categories filter:"
+msgstr ""
+
+#: vc_functions.php:490
+msgid "Or Select Category"
+msgstr ""
+
+#: vc_functions.php:78 vc_functions.php:181 vc_functions.php:255
+#: vc_functions.php:312 vc_functions.php:404 vc_functions.php:498
+msgid "Order"
+msgstr ""
+
+#: vc_functions.php:1606 vc_functions.php:1707 vc_functions.php:1792
+msgid "order"
+msgstr ""
+
+#: functions.php:1628
+msgid "Page"
+msgstr ""
+
+#: functions.php:1933
+msgid "Page Options"
+msgstr ""
+
+#: vc_functions.php:1270 vc_functions.php:1453 vc_functions.php:1529
+msgid "Page pagination"
+msgstr ""
+
+#: footer.php:105
+msgid "Password"
+msgstr ""
+
+#: framework/theme-configs.php:374
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: framework/theme-configs.php:647
+msgid "Pick background  color (default: #222222)."
+msgstr ""
+
+#: framework/theme-configs.php:587
+msgid "Pick theme  color (default: #222222)."
+msgstr ""
+
+#: framework/theme-configs.php:365
+msgid "Pick theme main color (default: #f44336)."
+msgstr ""
+
+#: framework/theme-configs.php:696
+msgid "Pinterest Url"
+msgstr ""
+
+#: functions.php:2113
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/widget/popular.php:36
+msgid "Popular"
+msgstr ""
+
+#: framework/widget/popular.php:145
+msgid "POPULAR POSTS"
+msgstr ""
+
+#: 404.php:158 404.php:258
+msgid "Popular Posts"
+msgstr ""
+
+#: framework/theme-configs.php:492
+msgid "Post Banner Advertisement Content"
+msgstr ""
+
+#: functions.php:1726
+msgid "Post Caption"
+msgstr ""
+
+#: comments.php:82
+msgid "Post Comment"
+msgstr ""
+
+#: functions.php:1697
+msgid "Post Format Intro"
+msgstr ""
+
+#: functions.php:1707
+msgid "Post Gallery"
+msgstr ""
+
+#: vc_functions.php:679 vc_functions.php:716 vc_functions.php:761
+msgid "Post ID"
+msgstr ""
+
+#: vc_functions.php:984 vc_functions.php:1061 vc_functions.php:1131
+#: vc_functions.php:1192 vc_functions.php:1262 vc_functions.php:1445
+#: vc_functions.php:1521 vc_functions.php:1598 vc_functions.php:1699
+#: vc_functions.php:1784
+msgid "Post Offset"
+msgstr ""
+
+#: functions.php:1789
+msgid "Post Options"
+msgstr ""
+
+#: functions.php:1734
+msgid "Post Score Number"
+msgstr ""
+
+#: functions.php:1743
+msgid "Post Score Text"
+msgstr ""
+
+#: category.php:181 category.php:253 author.php:168 index.php:180 index.php:252
+#: vc_templates/qk_posts_2col.php:208 vc_templates/qk_posts_full.php:111
+#: vc_templates/qk_posts_full.php:140 vc_templates/qk_posts_grid.php:137
+#: vc_templates/qk_posts_list.php:178 vc_templates/qk_posts_2col2.php:220
+#: vc_templates/qk_posts_lists2.php:238 category/3columns.php:62
+#: category/thumbleft.php:78 category/largeimage.php:77
+#: category/2colsidebar.php:77 category/bothsidebar.php:82
+#: category/video.php:79
+msgid "Prev"
+msgstr ""
+
+#: single.php:111 fullwidth.php:73 introtop.php:86 fullbanner.php:74
+#: designsingle.php:138 bothsidebar.php:149
+msgid "Previous page"
+msgstr ""
+
+#: vc_functions.php:1285
+msgid "QK Ad Box"
+msgstr ""
+
+#: vc_functions.php:914
+msgid "QK Big Carousel"
+msgstr ""
+
+#: vc_functions.php:866
+msgid "QK Carousel Block 1"
+msgstr ""
+
+#: vc_functions.php:890
+msgid "QK Carousel Block 2"
+msgstr ""
+
+#. Widget name will appear in UI
+#: framework/widget/featured.php:13
+msgid "QK Featured Posts"
+msgstr ""
+
+#: vc_functions.php:234
+msgid "QK Featurred Carousel"
+msgstr ""
+
+#: vc_functions.php:375
+msgid "QK Featurred Slider"
+msgstr ""
+
+#: vc_functions.php:1338
+msgid "QK Gallery Box"
+msgstr ""
+
+#: vc_functions.php:1808
+msgid "QK Gmap"
+msgstr ""
+
+#: vc_functions.php:512
+msgid "QK Heading News"
+msgstr ""
+
+#: vc_functions.php:6
+msgid "QK Image"
+msgstr ""
+
+#: vc_functions.php:550
+msgid "QK Post"
+msgstr ""
+
+#: vc_functions.php:613
+msgid "QK Post 2"
+msgstr ""
+
+#: vc_functions.php:666
+msgid "QK Post 3"
+msgstr ""
+
+#: vc_functions.php:703
+msgid "QK Post 4"
+msgstr ""
+
+#: vc_functions.php:952
+msgid "QK Posts 1"
+msgstr ""
+
+#: vc_functions.php:1020
+msgid "QK Posts 2"
+msgstr ""
+
+#: vc_functions.php:1405
+msgid "QK Posts 2Col"
+msgstr ""
+
+#: vc_functions.php:1481
+msgid "QK Posts 2Col 2"
+msgstr ""
+
+#: vc_functions.php:1099
+msgid "QK Posts 3"
+msgstr ""
+
+#: vc_functions.php:1160
+msgid "QK Posts 4"
+msgstr ""
+
+#: vc_functions.php:57
+msgid "QK Posts Carousel"
+msgstr ""
+
+#: vc_functions.php:144
+msgid "QK Posts Carousel 2"
+msgstr ""
+
+#: vc_functions.php:1752
+msgid "QK Posts Full"
+msgstr ""
+
+#: vc_functions.php:1222
+msgid "QK Posts grid"
+msgstr ""
+
+#: vc_functions.php:1558
+msgid "QK Posts Lists"
+msgstr ""
+
+#: vc_functions.php:1659
+msgid "QK Posts Lists 2"
+msgstr ""
+
+#: vc_functions.php:333
+msgid "QK Posts Slider"
+msgstr ""
+
+#. Widget name will appear in UI
+#: framework/widget/popular.php:13
+msgid "QK Posts Tab"
+msgstr ""
+
+#. Widget name will appear in UI
+#: framework/widget/random.php:13
+msgid "QK Random Posts"
+msgstr ""
+
+#. Widget name will appear in UI
+#: functions.php:13
+msgid "QK Recent Comments"
+msgstr ""
+
+#: vc_functions.php:425
+msgid "QK Slider caption"
+msgstr ""
+
+#: vc_functions.php:471
+msgid "QK Slider caption 2"
+msgstr ""
+
+#: vc_functions.php:748
+msgid "QK Standard"
+msgstr ""
+
+#: vc_functions.php:832
+msgid "QK Sticker Posts"
+msgstr ""
+
+#: vc_functions.php:291
+msgid "QK Top Carousel"
+msgstr ""
+
+#: vc_functions.php:788
+msgid "QK Top Stories"
+msgstr ""
+
+#: framework/widget/random.php:75
+msgid "Random Posts"
+msgstr ""
+
+#: functions.php:650 author.php:146 posts/thumb.php:24 posts/full.php:24
+#: posts/grid1.php:29 posts/full-video.php:27 posts/full-gallery.php:40
+#: posts/standard.php:13 posts/grid3.php:26 vc_templates/qk_posts_2col.php:188
+#: vc_templates/qk_posts_full.php:101 vc_templates/qk_posts_list.php:155
+#: vc_templates/qk_posts_2col2.php:198 vc_templates/qk_posts3.php:91
+msgid "Read More"
+msgstr ""
+
+#: framework/widget/popular.php:39
+msgid "Recent"
+msgstr "Recientes"
+
+#: functions.php:113
+msgid "Recent Comments"
+msgstr ""
+
+#: footer.php:114
+msgid "Register"
+msgstr ""
+
+#: footer.php:110
+msgid "Remember me"
+msgstr ""
+
+#: functions.php:2112
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:1781
+msgid "Review Description"
+msgstr ""
+
+#: single.php:126 fullwidth.php:87 introtop.php:100 fullbanner.php:88
+#: designsingle.php:151 bothsidebar.php:163
+msgid "Reviewer overview"
+msgstr ""
+
+#: design.php:35 header2.php:194 header6.php:183 searchform.php:11
+#: politics.php:234 404.php:148 404.php:248 travel.php:202 tech.php:180
+#: header5.php:153 header.php:263 fashion.php:148
+msgid "Search here"
+msgstr ""
+
+#: category.php:165 category.php:237 author.php:158 index.php:164 index.php:236
+#: category/3columns.php:47 category/thumbleft.php:63
+#: category/largeimage.php:60 category/2colsidebar.php:62
+#: category/bothsidebar.php:68 category/video.php:64
+msgid "Search with other string:"
+msgstr ""
+
+#: vc_functions.php:68 vc_functions.php:163 vc_functions.php:245
+#: vc_functions.php:302 vc_functions.php:394 vc_functions.php:800
+#: vc_functions.php:966 vc_functions.php:1034 vc_functions.php:1113
+#: vc_functions.php:1174 vc_functions.php:1244 vc_functions.php:1427
+#: vc_functions.php:1503 vc_functions.php:1580 vc_functions.php:1681
+#: vc_functions.php:1766
+msgid "Select Category"
+msgstr ""
+
+#: framework/theme-configs.php:450
+msgid "Select Default category blog layout."
+msgstr ""
+
+#: framework/theme-configs.php:434
+msgid "Select single blog layout."
+msgstr ""
+
+#: framework/theme-configs.php:569
+msgid "Select weather format."
+msgstr ""
+
+#: framework/theme-configs.php:509
+msgid "Select your Header Layout"
+msgstr ""
+
+#: functions.php:1835
+msgid "Select your Single Style"
+msgstr ""
+
+#: framework/theme-configs.php:326
+msgid "Select your themes style."
+msgstr ""
+
+#: single.php:89 single.php:185 fullwidth.php:54 fullwidth.php:145
+#: introtop.php:64 introtop.php:158 fullbanner.php:55 fullbanner.php:146
+#: designsingle.php:116 designsingle.php:209 bothsidebar.php:127
+#: bothsidebar.php:221
+msgid "Share on Facebook"
+msgstr ""
+
+#: single.php:90 single.php:186 fullwidth.php:55 fullwidth.php:146
+#: introtop.php:65 introtop.php:159 fullbanner.php:56 fullbanner.php:147
+#: designsingle.php:117 designsingle.php:210 bothsidebar.php:128
+#: bothsidebar.php:222
+msgid "Share on Twitter"
+msgstr ""
+
+#: single.php:88 single.php:184 fullwidth.php:53 fullwidth.php:144
+#: introtop.php:63 introtop.php:157 fullbanner.php:54 fullbanner.php:145
+#: designsingle.php:115 designsingle.php:208 bothsidebar.php:126
+#: bothsidebar.php:220 posts/full.php:29 posts/full-video.php:32
+#: posts/full-gallery.php:46
+msgid "Share Post"
+msgstr ""
+
+#: vc_templates/qk_posts_2col.php:203 vc_templates/qk_posts_list.php:172
+msgid "Show me More"
+msgstr ""
+
+#: vc_functions.php:1614 vc_functions.php:1715
+msgid "Show Rating "
+msgstr ""
+
+#: functions.php:1843
+msgid "Single Fullwidth"
+msgstr ""
+
+#: functions.php:1834
+msgid "Single Post Layout Style"
+msgstr ""
+
+#: vc_functions.php:1314
+msgid "Small Screen"
+msgstr ""
+
+#: functions.php:1507
+msgid "Small Widget Area"
+msgstr ""
+
+#: framework/theme-configs.php:655
+msgid "Social Settinigs"
+msgstr ""
+
+#: functions.php:2101
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:2107
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:2104
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:2109
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/theme-configs.php:350
+msgid "Specify the body font properties."
+msgstr ""
+
+#: bbpress/loop-single-topic.php:71
+msgid "Started by"
+msgstr ""
+
+#: vc_functions.php:853
+msgid "Sticker lable"
+msgstr ""
+
+#: framework/theme-configs.php:319
+msgid "Styling Options"
+msgstr ""
+
+#: footer.php:125
+msgid "Submit"
+msgstr ""
+
+#: single.php:145 fullwidth.php:106 introtop.php:119 fullbanner.php:107
+#: designsingle.php:170 bothsidebar.php:182
+msgid "Summary"
+msgstr ""
+
+#: framework/theme-configs.php:144
+msgid "Support"
+msgstr ""
+
+#: functions.php:2108
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:2106
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:2105
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/theme-configs.php:204
+msgid "Theme Information 1"
+msgstr ""
+
+#: framework/theme-configs.php:209
+msgid "Theme Information 2"
+msgstr ""
+
+#: framework/theme-configs.php:364
+msgid "Theme main Color"
+msgstr ""
+
+#: framework/theme-configs.php:325
+msgid "Theme Main Layout Style"
+msgstr ""
+
+#: functions.php:2103
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:2102
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: vc_functions.php:320 vc_functions.php:1070
+msgid "Thumbnail"
+msgstr ""
+
+#: vc_functions.php:1622 vc_functions.php:1723
+msgid "Thumbnail Column"
+msgstr ""
+
+#: vc_functions.php:587
+msgid "Thumbnail Image Size"
+msgstr ""
+
+#: vc_functions.php:102 vc_functions.php:205 vc_functions.php:263
+#: vc_functions.php:412 vc_functions.php:651 vc_functions.php:733
+#: vc_functions.php:1376 vc_functions.php:1630
+msgid "Thumbnail Size"
+msgstr ""
+
+#: functions.php:126 framework/widget/random.php:89
+#: framework/widget/featured.php:96 framework/widget/popular.php:159
+msgid "Title:"
+msgstr ""
+
+#: functions.php:208
+msgid "Top Menu"
+msgstr ""
+
+#: framework/widget/popular.php:42
+msgid "Top Reviews"
+msgstr "Noticias relevantes"
+
+#: framework/theme-configs.php:627
+msgid "Turn ON footer widget area"
+msgstr ""
+
+#: framework/theme-configs.php:402
+msgid "Turn On/Off author section on Single Post"
+msgstr ""
+
+#: framework/theme-configs.php:395
+msgid "Turn On/Off Featured image on Single Post"
+msgstr ""
+
+#: framework/theme-configs.php:409
+msgid "Turn On/Off Related Posts section on Single Post"
+msgstr ""
+
+#: framework/theme-configs.php:543
+msgid "Turn On/Off search on header"
+msgstr ""
+
+#: framework/theme-configs.php:425
+msgid "Turn On/Off Share Button at Bottom of Single Post"
+msgstr ""
+
+#: framework/theme-configs.php:417
+msgid "Turn On/Off Share Button at Top of Single Post"
+msgstr ""
+
+#: framework/theme-configs.php:580
+msgid "Turn On/Off topline on header"
+msgstr ""
+
+#: functions.php:1887
+msgid "Twitter"
+msgstr ""
+
+#: framework/theme-configs.php:667
+msgid "Twitter Url"
+msgstr ""
+
+#: footer.php:122
+msgid "Type your email address"
+msgstr ""
+
+#. Name of the template
+msgid "Under Construction"
+msgstr ""
+
+#: framework/theme-configs.php:610
+msgid "Upload main heaedr background."
+msgstr ""
+
+#: functions.php:1708
+msgid "Upload post images for intro slider"
+msgstr ""
+
+#: framework/theme-configs.php:307
+msgid "Upload your Apple touch icon 114x114."
+msgstr ""
+
+#: framework/theme-configs.php:274 framework/theme-configs.php:285
+msgid "Upload your Apple touch icon 57x57."
+msgstr ""
+
+#: framework/theme-configs.php:296
+msgid "Upload your Apple touch icon 72x72."
+msgstr ""
+
+#: framework/theme-configs.php:252
+msgid "Upload your Favicon."
+msgstr ""
+
+#: framework/theme-configs.php:263
+msgid "Upload your logo."
+msgstr ""
+
+#: functions.php:1518 functions.php:1528
+msgid "Use in Visual Composer page builder"
+msgstr ""
+
+#: functions.php:1850
+msgid "User Meta Profile"
+msgstr ""
+
+#: footer.php:103
+msgid "Username or email address"
+msgstr ""
+
+#: vc_templates/qk_posts_2col.php:130 vc_templates/qk_posts_2col2.php:130
+msgid "View more"
+msgstr ""
+
+#: framework/theme-configs.php:562
+msgid "Weather API"
+msgstr ""
+
+#: framework/theme-configs.php:568
+msgid "Weather Format"
+msgstr ""
+
+#: comments.php:76
+msgid "Webstie"
+msgstr ""
+
+#: footer.php:102
+msgid "Welcome! Login in to your account"
+msgstr ""
+
+#: vc_functions.php:643 vc_functions.php:688 vc_functions.php:725
+msgid "Wrap Tag"
+msgstr ""
+
+#: single.php:343 fullwidth.php:300 introtop.php:311 fullbanner.php:301
+#: designsingle.php:363 bothsidebar.php:367
+msgid "You may also like"
+msgstr ""
+
+#: framework/theme-configs.php:550
+msgid "Your City"
+msgstr ""
+
+#: functions.php:1649
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: framework/theme-configs.php:556
+msgid "Your Country"
+msgstr ""
+
+#: functions.php:1924
+msgid "Your Dribbble Link (optional)"
+msgstr ""
+
+#: comments.php:83
+msgid "Your email address will not be published"
+msgstr ""
+
+#: functions.php:2294
+msgid "Your Email Adress"
+msgstr ""
+
+#: functions.php:1869
+msgid "Your Facebook Link (optional)"
+msgstr ""
+
+#: functions.php:1879
+msgid "Your Google Link (optional)"
+msgstr ""
+
+#: functions.php:1915
+msgid "Your Instagram Link (optional)"
+msgstr ""
+
+#: functions.php:1906
+msgid "Your Linkedin Link (optional)"
+msgstr ""
+
+#: functions.php:2302
+msgid "Your Password"
+msgstr ""
+
+#: functions.php:1888
+msgid "Your Twitter Link (optional)"
+msgstr ""
+
+#: functions.php:2286
+msgid "Your Username"
+msgstr ""
+
+#: functions.php:1897
+msgid "Your Youtube Link (optional)"
+msgstr ""
+
+#: functions.php:1896
+msgid "Youtube"
+msgstr ""

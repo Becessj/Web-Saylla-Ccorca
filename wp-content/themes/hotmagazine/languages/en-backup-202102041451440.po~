@@ -1,0 +1,1822 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-28 23:45+0700\n"
+"PO-Revision-Date: 2016-03-28 23:45+0700\n"
+"Last-Translator: admin <qktheme@gmail.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: category\n"
+"X-Poedit-SearchPath-2: bbpress\n"
+"X-Poedit-SearchPath-3: framework/widget\n"
+"X-Poedit-SearchPath-4: intro\n"
+"X-Poedit-SearchPath-5: posts\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+
+#: 404.php:46 bothsidebar.php:118 category.php:45 designsingle.php:81
+#: framework/widget/featured.php:56 fullbanner.php:23 fullwidth.php:23
+#: functions.php:91 functions.php:496 functions.php:636 functions.php:724
+#: functions.php:734 functions.php:801 index.php:45 introtop.php:55
+#: posts/full-gallery.php:12 posts/full-video.php:12 posts/full.php:12
+#: posts/grid1.php:20 posts/grid3.php:20 posts/standard.php:7
+#: posts/thumb.php:20 single.php:81 template-home.php:50
+#: vc_templates/qk_carousel3.php:89 vc_templates/qk_featured_carousel.php:80
+#: vc_templates/qk_featured_slider.php:74 vc_templates/qk_post2.php:64
+#: vc_templates/qk_post3.php:61 vc_templates/qk_post3.php:86
+#: vc_templates/qk_post4.php:60 vc_templates/qk_post_standard.php:31
+#: vc_templates/qk_post_standard.php:75 vc_templates/qk_posts1.php:67
+#: vc_templates/qk_posts1.php:82 vc_templates/qk_posts1.php:97
+#: vc_templates/qk_posts1.php:112 vc_templates/qk_posts3.php:83
+#: vc_templates/qk_posts4.php:72 vc_templates/qk_posts4.php:96
+#: vc_templates/qk_posts_2col.php:99 vc_templates/qk_posts_2col.php:108
+#: vc_templates/qk_posts_2col.php:175 vc_templates/qk_posts_2col2.php:99
+#: vc_templates/qk_posts_2col2.php:108 vc_templates/qk_posts_2col2.php:185
+#: vc_templates/qk_posts_carousel2.php:85 vc_templates/qk_posts_full.php:95
+#: vc_templates/qk_posts_grid.php:93 vc_templates/qk_posts_grid.php:107
+#: vc_templates/qk_posts_list.php:129 vc_templates/qk_posts_list.php:148
+#: vc_templates/qk_posts_lists2.php:179 vc_templates/qk_posts_lists2.php:204
+#: vc_templates/qk_slider_caption.php:102
+#: vc_templates/qk_slider_caption.php:117
+#: vc_templates/qk_slider_caption.php:148
+#: vc_templates/qk_slider_caption2.php:93 vc_templates/qk_top_stories.php:48
+msgid "by"
+msgstr ""
+
+#: 404.php:143 404.php:243
+msgid "Error"
+msgstr ""
+
+#: 404.php:144 404.php:244
+msgid ""
+"Oops! It looks like nothing was found at this location. Maybe try another "
+"link or a search?"
+msgstr ""
+
+#: 404.php:148 404.php:248 design.php:35 fashion.php:148 header.php:263
+#: header2.php:191 header5.php:153 header6.php:183 politics.php:234
+#: searchform.php:11 tech.php:180 travel.php:202
+msgid "Search here"
+msgstr ""
+
+#: 404.php:158 404.php:258
+msgid "Popular Posts"
+msgstr ""
+
+#: author.php:16
+msgid "Author Details"
+msgstr ""
+
+#: author.php:146 functions.php:650 posts/full-gallery.php:40
+#: posts/full-video.php:28 posts/full.php:25 posts/grid1.php:27
+#: posts/grid3.php:27 posts/standard.php:14 posts/thumb.php:25
+#: vc_templates/qk_posts3.php:92 vc_templates/qk_posts_2col.php:189
+#: vc_templates/qk_posts_2col2.php:199 vc_templates/qk_posts_full.php:102
+#: vc_templates/qk_posts_list.php:156
+msgid "Read More"
+msgstr ""
+
+#: author.php:157 category.php:164 category.php:236 category/2colsidebar.php:61
+#: category/3columns.php:46 category/bothsidebar.php:67
+#: category/largeimage.php:59 category/thumbleft.php:62 category/video.php:63
+#: index.php:164 index.php:236
+msgid "Nothing Found Here!"
+msgstr ""
+
+#: author.php:158 category.php:165 category.php:237 category/2colsidebar.php:62
+#: category/3columns.php:47 category/bothsidebar.php:68
+#: category/largeimage.php:60 category/thumbleft.php:63 category/video.php:64
+#: index.php:165 index.php:237
+msgid "Search with other string:"
+msgstr ""
+
+#: author.php:168 category.php:181 category.php:253 category/2colsidebar.php:77
+#: category/3columns.php:62 category/bothsidebar.php:82
+#: category/largeimage.php:77 category/thumbleft.php:78 category/video.php:79
+#: index.php:181 index.php:253 vc_templates/qk_posts_2col.php:209
+#: vc_templates/qk_posts_2col2.php:221 vc_templates/qk_posts_full.php:112
+#: vc_templates/qk_posts_full.php:141 vc_templates/qk_posts_grid.php:137
+#: vc_templates/qk_posts_list.php:179 vc_templates/qk_posts_lists2.php:240
+msgid "Prev"
+msgstr ""
+
+#: author.php:168 category.php:181 category.php:253 category/2colsidebar.php:77
+#: category/3columns.php:62 category/bothsidebar.php:82
+#: category/largeimage.php:77 category/thumbleft.php:78 category/video.php:79
+#: index.php:181 index.php:253 vc_templates/qk_posts_2col.php:209
+#: vc_templates/qk_posts_2col2.php:221 vc_templates/qk_posts_full.php:112
+#: vc_templates/qk_posts_full.php:141 vc_templates/qk_posts_grid.php:137
+#: vc_templates/qk_posts_list.php:179 vc_templates/qk_posts_lists2.php:240
+msgid "Next"
+msgstr ""
+
+#: bbpress/loop-single-topic.php:71
+msgid "Started by"
+msgstr ""
+
+#: bbpress/loop-single-topic.php:95
+msgid "Last Post"
+msgstr ""
+
+#: bothsidebar.php:126 bothsidebar.php:220 designsingle.php:115
+#: designsingle.php:208 fullbanner.php:55 fullbanner.php:146 fullwidth.php:53
+#: fullwidth.php:144 introtop.php:63 introtop.php:157 posts/full-gallery.php:46
+#: posts/full-video.php:33 posts/full.php:30 single.php:89 single.php:185
+msgid "Share Post"
+msgstr ""
+
+#: bothsidebar.php:127 bothsidebar.php:221 designsingle.php:116
+#: designsingle.php:209 fullbanner.php:56 fullbanner.php:147 fullwidth.php:54
+#: fullwidth.php:145 introtop.php:64 introtop.php:158 single.php:90
+#: single.php:186
+msgid "Share on Facebook"
+msgstr ""
+
+#: bothsidebar.php:128 bothsidebar.php:222 designsingle.php:117
+#: designsingle.php:210 fullbanner.php:57 fullbanner.php:148 fullwidth.php:55
+#: fullwidth.php:146 introtop.php:65 introtop.php:159 single.php:91
+#: single.php:187
+msgid "Share on Twitter"
+msgstr ""
+
+#: bothsidebar.php:148 designsingle.php:137 fullbanner.php:74 fullwidth.php:72
+#: introtop.php:85 single.php:111
+msgid "Next page"
+msgstr ""
+
+#: bothsidebar.php:149 designsingle.php:138 fullbanner.php:75 fullwidth.php:73
+#: introtop.php:86 single.php:112
+msgid "Previous page"
+msgstr ""
+
+#: bothsidebar.php:163 designsingle.php:151 fullbanner.php:89 fullwidth.php:87
+#: functions.php:1753 introtop.php:100 single.php:127
+msgid "Reviewer overview"
+msgstr ""
+
+#: bothsidebar.php:182 designsingle.php:170 fullbanner.php:108
+#: fullwidth.php:106 introtop.php:119 single.php:146
+msgid "Summary"
+msgstr ""
+
+#: bothsidebar.php:188 designsingle.php:176 fullbanner.php:114
+#: fullwidth.php:112 introtop.php:125 single.php:152
+msgid "Amazing"
+msgstr ""
+
+#: bothsidebar.php:191 designsingle.php:179 fullbanner.php:117
+#: fullwidth.php:115 introtop.php:128 single.php:155
+msgid "Excellent"
+msgstr ""
+
+#: bothsidebar.php:194 designsingle.php:182 fullbanner.php:120
+#: fullwidth.php:118 introtop.php:131 single.php:158
+msgid "Good"
+msgstr ""
+
+#: bothsidebar.php:197 designsingle.php:185 fullbanner.php:123
+#: fullwidth.php:121 introtop.php:134 single.php:161
+msgid "Okay"
+msgstr ""
+
+#: bothsidebar.php:200 designsingle.php:188 fullbanner.php:126
+#: fullwidth.php:124 introtop.php:137 single.php:164
+msgid "Mediocre"
+msgstr ""
+
+#: bothsidebar.php:202 designsingle.php:190 fullbanner.php:128
+#: fullwidth.php:126 introtop.php:139 single.php:166
+msgid "Bad"
+msgstr ""
+
+#: bothsidebar.php:266 designsingle.php:262 fullbanner.php:201
+#: fullwidth.php:199 introtop.php:211 single.php:239
+msgid "About The Author"
+msgstr ""
+
+#: bothsidebar.php:269 designsingle.php:265 fullbanner.php:204
+#: fullwidth.php:202 introtop.php:214 single.php:242
+msgid "More From The Author"
+msgstr ""
+
+#: bothsidebar.php:367 designsingle.php:363 fullbanner.php:302
+#: fullwidth.php:300 introtop.php:311 single.php:344
+msgid "You may also like"
+msgstr ""
+
+#: comments.php:18
+msgid "0 Comments"
+msgstr ""
+
+#: comments.php:18
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:18
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:47
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:48
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:61
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:65
+msgid "Name"
+msgstr ""
+
+#: comments.php:71
+msgid "Email"
+msgstr ""
+
+#: comments.php:76
+msgid "Webstie"
+msgstr ""
+
+#: comments.php:81
+msgid "Comment"
+msgstr ""
+
+#: comments.php:82
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:83
+msgid "Your email address will not be published"
+msgstr ""
+
+#: footer.php:102
+msgid "Welcome! Login in to your account"
+msgstr ""
+
+#: footer.php:103
+msgid "Username or email address"
+msgstr ""
+
+#: footer.php:105
+msgid "Password"
+msgstr ""
+
+#: footer.php:108 footer.php:127 functions.php:2322
+msgid "Login"
+msgstr ""
+
+#: footer.php:110
+msgid "Remember me"
+msgstr ""
+
+#: footer.php:112
+msgid "Lost your password?"
+msgstr ""
+
+#: footer.php:114
+msgid "Don't have account."
+msgstr ""
+
+#: footer.php:114
+msgid "Register"
+msgstr ""
+
+#: footer.php:122
+msgid "Type your email address"
+msgstr ""
+
+#: footer.php:125
+msgid "Submit"
+msgstr ""
+
+#: footer.php:127 functions.php:2322
+msgid "Back to"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:300 functions.php:2101
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:301 functions.php:2102
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:302 functions.php:2103
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:303 functions.php:2104
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:305 functions.php:2105
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:310 functions.php:2106
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:315
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:320 functions.php:2111
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:325
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:330
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:335 functions.php:2108
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:340 functions.php:2109
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:345
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:350 functions.php:2113
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:355
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:360 functions.php:2114
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:364 functions.php:2115
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:365
+msgid "Return to the dashboard"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:366
+#: framework/class-tgm-plugin-activation.php:2644 functions.php:2116
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:367
+#: framework/class-tgm-plugin-activation.php:2475
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:368
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:369
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:370
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:371
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:372
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:471
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:472
+msgid "Update Required"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:574
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:735
+#: framework/class-tgm-plugin-activation.php:2991
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:826
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:826
+#: framework/class-tgm-plugin-activation.php:829
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:829
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:986
+#: framework/class-tgm-plugin-activation.php:2472
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1662
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1911
+msgid "Required"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1913
+msgid "Recommended"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1927
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1930
+msgid "External Source"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1933
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1948
+msgid "Not Installed"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1951
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1953
+msgid "Active"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1957
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1959
+msgid "Requires Update"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1961
+msgid "Update recommended"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:1967
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2005
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:2008
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:2011
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:2014
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/class-tgm-plugin-activation.php:2088
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2094
+msgid "Installed version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2101
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2111
+msgid "Available version:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2145
+msgid "Plugin"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2146
+msgid "Source"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2147
+msgid "Type"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2150
+msgid "Version"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2151
+msgid "Status"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2194
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2198
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2202
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2265
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2294
+msgid "Install"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2299
+msgid "Update"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2302
+msgid "Activate"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2327
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2329
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2358
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2360
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2440
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2461
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2643
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2924
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2927
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2930
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2931
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2931
+#: framework/class-tgm-plugin-activation.php:2937
+msgid "Show Details"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2931
+#: framework/class-tgm-plugin-activation.php:2937
+msgid "Hide Details"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2932
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2933
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2936
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2937
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2938
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/class-tgm-plugin-activation.php:2939
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/menu-item-custom-fields.php:52
+msgid "Mega DropDown"
+msgstr ""
+
+#: framework/theme-configs.php:35 framework/theme-configs.php:36
+msgid "Hotmagazine Options"
+msgstr ""
+
+#: framework/theme-configs.php:138
+msgid "Documentation"
+msgstr ""
+
+#: framework/theme-configs.php:144
+msgid "Support"
+msgstr ""
+
+#: framework/theme-configs.php:150
+msgid "Extensions"
+msgstr ""
+
+#: framework/theme-configs.php:204
+msgid "Theme Information 1"
+msgstr ""
+
+#: framework/theme-configs.php:209
+msgid "Theme Information 2"
+msgstr ""
+
+#: framework/theme-configs.php:240
+msgid "General Settings"
+msgstr ""
+
+#: framework/theme-configs.php:249
+msgid "Custom Favicon"
+msgstr ""
+
+#: framework/theme-configs.php:252
+msgid "Upload your Favicon."
+msgstr ""
+
+#: framework/theme-configs.php:260
+msgid "Logo"
+msgstr ""
+
+#: framework/theme-configs.php:263
+msgid "Upload your logo."
+msgstr ""
+
+#: framework/theme-configs.php:271
+msgid "Apple Touch Icon"
+msgstr ""
+
+#: framework/theme-configs.php:274 framework/theme-configs.php:285
+msgid "Upload your Apple touch icon 57x57."
+msgstr ""
+
+#: framework/theme-configs.php:282
+msgid "Apple Touch Icon 57x57"
+msgstr ""
+
+#: framework/theme-configs.php:293
+msgid "Apple Touch Icon 72x72"
+msgstr ""
+
+#: framework/theme-configs.php:296
+msgid "Upload your Apple touch icon 72x72."
+msgstr ""
+
+#: framework/theme-configs.php:304
+msgid "Apple Touch Icon 114x114"
+msgstr ""
+
+#: framework/theme-configs.php:307
+msgid "Upload your Apple touch icon 114x114."
+msgstr ""
+
+#: framework/theme-configs.php:319
+msgid "Styling Options"
+msgstr ""
+
+#: framework/theme-configs.php:325
+msgid "Theme Main Layout Style"
+msgstr ""
+
+#: framework/theme-configs.php:326
+msgid "Select your themes style."
+msgstr ""
+
+#: framework/theme-configs.php:349
+msgid "Body Font"
+msgstr ""
+
+#: framework/theme-configs.php:350
+msgid "Specify the body font properties."
+msgstr ""
+
+#: framework/theme-configs.php:364
+msgid "Theme main Color"
+msgstr ""
+
+#: framework/theme-configs.php:365
+msgid "Pick theme main color (default: #f44336)."
+msgstr ""
+
+#: framework/theme-configs.php:373
+msgid "Custom CSS Code"
+msgstr ""
+
+#: framework/theme-configs.php:374
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: framework/theme-configs.php:387
+msgid "Blog Settings"
+msgstr ""
+
+#: framework/theme-configs.php:395
+msgid "Turn On/Off Featured image on Single Post"
+msgstr ""
+
+#: framework/theme-configs.php:402
+msgid "Turn On/Off author section on Single Post"
+msgstr ""
+
+#: framework/theme-configs.php:409
+msgid "Turn On/Off Related Posts section on Single Post"
+msgstr ""
+
+#: framework/theme-configs.php:417
+msgid "Turn On/Off Share Button at Top of Single Post"
+msgstr ""
+
+#: framework/theme-configs.php:425
+msgid "Turn On/Off Share Button at Bottom of Single Post"
+msgstr ""
+
+#: framework/theme-configs.php:433
+msgid "Default Single Blog Layout"
+msgstr ""
+
+#: framework/theme-configs.php:434
+msgid "Select single blog layout."
+msgstr ""
+
+#: framework/theme-configs.php:449
+msgid "Default Category Layout"
+msgstr ""
+
+#: framework/theme-configs.php:450
+msgid "Select Default category blog layout."
+msgstr ""
+
+#: framework/theme-configs.php:468
+msgid "Advertisement Settings"
+msgstr ""
+
+#: framework/theme-configs.php:477
+msgid "Header Advertisement Content"
+msgstr ""
+
+#: framework/theme-configs.php:485
+msgid "Loop Advertisement Content"
+msgstr ""
+
+#: framework/theme-configs.php:492
+msgid "Post Banner Advertisement Content"
+msgstr ""
+
+#: framework/theme-configs.php:501
+msgid "Header Settings"
+msgstr ""
+
+#: framework/theme-configs.php:509
+msgid "Select your Header Layout"
+msgstr ""
+
+#: framework/theme-configs.php:543
+msgid "Turn On/Off search on header"
+msgstr ""
+
+#: framework/theme-configs.php:550
+msgid "Your City"
+msgstr ""
+
+#: framework/theme-configs.php:556
+msgid "Your Country"
+msgstr ""
+
+#: framework/theme-configs.php:562
+msgid "Weather API"
+msgstr ""
+
+#: framework/theme-configs.php:568
+msgid "Weather Format"
+msgstr ""
+
+#: framework/theme-configs.php:569
+msgid "Select weather format."
+msgstr ""
+
+#: framework/theme-configs.php:580
+msgid "Turn On/Off topline on header"
+msgstr ""
+
+#: framework/theme-configs.php:586
+msgid "Header Top line background"
+msgstr ""
+
+#: framework/theme-configs.php:587
+msgid "Pick theme  color (default: #222222)."
+msgstr ""
+
+#: framework/theme-configs.php:593
+msgid "Logo padding:"
+msgstr ""
+
+#: framework/theme-configs.php:599
+msgid "Logo image max height:"
+msgstr ""
+
+#: framework/theme-configs.php:607
+msgid "Main Header background image"
+msgstr ""
+
+#: framework/theme-configs.php:610
+msgid "Upload main heaedr background."
+msgstr ""
+
+#: framework/theme-configs.php:619
+msgid "Footer Settings"
+msgstr ""
+
+#: framework/theme-configs.php:627
+msgid "Turn ON footer widget area"
+msgstr ""
+
+#: framework/theme-configs.php:639
+msgid "Footer Text"
+msgstr ""
+
+#: framework/theme-configs.php:640
+msgid "Copyright Text"
+msgstr ""
+
+#: framework/theme-configs.php:646
+msgid "Footer background"
+msgstr ""
+
+#: framework/theme-configs.php:647
+msgid "Pick background  color (default: #222222)."
+msgstr ""
+
+#: framework/theme-configs.php:655
+msgid "Social Settinigs"
+msgstr ""
+
+#: framework/theme-configs.php:660
+msgid "Facebook Url"
+msgstr ""
+
+#: framework/theme-configs.php:667
+msgid "Twitter Url"
+msgstr ""
+
+#: framework/theme-configs.php:673
+msgid "Istagram Url"
+msgstr ""
+
+#: framework/theme-configs.php:680
+msgid "Google+ Url"
+msgstr ""
+
+#: framework/theme-configs.php:687
+msgid "Linkedin Url"
+msgstr ""
+
+#: framework/theme-configs.php:696
+msgid "Pinterest Url"
+msgstr ""
+
+#: framework/widget/featured.php:13
+msgid "QK Featured Posts"
+msgstr ""
+
+#: framework/widget/featured.php:16
+msgid "Listing RECENT Posts"
+msgstr ""
+
+#: framework/widget/featured.php:82
+msgid "Featured Posts"
+msgstr ""
+
+#: framework/widget/featured.php:96 framework/widget/popular.php:159
+#: framework/widget/random.php:89 functions.php:126
+msgid "Title:"
+msgstr ""
+
+#: framework/widget/featured.php:100 framework/widget/popular.php:163
+#: framework/widget/random.php:93 functions.php:130
+msgid "Number of posts:"
+msgstr ""
+
+#: framework/widget/popular.php:13
+msgid "QK Posts Tab"
+msgstr ""
+
+#: framework/widget/popular.php:16
+msgid "Listing POPULAR Posts"
+msgstr ""
+
+#: framework/widget/popular.php:36
+msgid "Popular"
+msgstr ""
+
+#: framework/widget/popular.php:39
+msgid "Recent"
+msgstr ""
+
+#: framework/widget/popular.php:42
+msgid "Top Reviews"
+msgstr ""
+
+#: framework/widget/popular.php:145
+msgid "POPULAR POSTS"
+msgstr ""
+
+#: framework/widget/random.php:13
+msgid "QK Random Posts"
+msgstr ""
+
+#: framework/widget/random.php:16
+msgid "Listing Random Posts"
+msgstr ""
+
+#: framework/widget/random.php:75
+msgid "Random Posts"
+msgstr ""
+
+#: functions.php:13
+msgid "QK Recent Comments"
+msgstr ""
+
+#: functions.php:16
+msgid "Listing Recent Comments"
+msgstr ""
+
+#: functions.php:113
+msgid "Recent Comments"
+msgstr ""
+
+#: functions.php:206
+msgid "Navigation Menu"
+msgstr ""
+
+#: functions.php:207
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:208
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:311
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:390
+msgid "<i class=\"fa fa-comments-o\"></i><span>0</span> "
+msgstr ""
+
+#: functions.php:390
+msgid "<i class=\"fa fa-comments-o\"></i><span>1</span>"
+msgstr ""
+
+#: functions.php:390
+msgid "<i class=\"fa fa-comments-o\"></i><span>%</span>"
+msgstr ""
+
+#: functions.php:1497
+msgid "Main Widget Area"
+msgstr ""
+
+#: functions.php:1499
+msgid "Appears in main sidebar of the site."
+msgstr ""
+
+#: functions.php:1506
+msgid "Small Widget Area"
+msgstr ""
+
+#: functions.php:1508
+msgid "Appears in small sidebar of the site."
+msgstr ""
+
+#: functions.php:1515
+msgid "Builder Sidebar 1"
+msgstr ""
+
+#: functions.php:1517 functions.php:1527
+msgid "Use in Visual Composer page builder"
+msgstr ""
+
+#: functions.php:1525
+msgid "Builder Sidebar 2"
+msgstr ""
+
+#: functions.php:1536
+msgid "Footer1 Widget Area"
+msgstr ""
+
+#: functions.php:1538
+msgid "Appears in the footer section 1 of the site."
+msgstr ""
+
+#: functions.php:1545
+msgid "Footer2 Widget Area"
+msgstr ""
+
+#: functions.php:1547
+msgid "Appears in the footer section 2 of the site."
+msgstr ""
+
+#: functions.php:1554
+msgid "Footer3 Widget Area"
+msgstr ""
+
+#: functions.php:1556 functions.php:1565
+msgid "Appears in the footer section 3 of the site."
+msgstr ""
+
+#: functions.php:1563
+msgid "Footer4 Widget Area"
+msgstr ""
+
+#: functions.php:1627
+msgid "Page"
+msgstr ""
+
+#: functions.php:1644
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions.php:1645
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:1648
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:1696
+msgid "Post Format Intro"
+msgstr ""
+
+#: functions.php:1706
+msgid "Post Gallery"
+msgstr ""
+
+#: functions.php:1707
+msgid "Upload post images for intro slider"
+msgstr ""
+
+#: functions.php:1724
+msgid "Intro Caption"
+msgstr ""
+
+#: functions.php:1725
+msgid "Post Caption"
+msgstr ""
+
+#: functions.php:1733
+msgid "Post Score Number"
+msgstr ""
+
+#: functions.php:1734
+msgid "Example \"9.2\""
+msgstr ""
+
+#: functions.php:1742
+msgid "Post Score Text"
+msgstr ""
+
+#: functions.php:1743
+msgid "Example \"Good\""
+msgstr ""
+
+#: functions.php:1756
+msgid "Entry {#}"
+msgstr ""
+
+#: functions.php:1757
+msgid "Add Another Entry"
+msgstr ""
+
+#: functions.php:1758
+msgid "Remove Entry"
+msgstr ""
+
+#: functions.php:1780
+msgid "Review Description"
+msgstr ""
+
+#: functions.php:1788
+msgid "Post Options"
+msgstr ""
+
+#: functions.php:1833
+msgid "Single Post Layout Style"
+msgstr ""
+
+#: functions.php:1834
+msgid "Select your Single Style"
+msgstr ""
+
+#: functions.php:1839
+msgid "Default"
+msgstr ""
+
+#: functions.php:1840
+msgid "Intro on top"
+msgstr ""
+
+#: functions.php:1841
+msgid "Banner Fullwidth"
+msgstr ""
+
+#: functions.php:1842
+msgid "Single Fullwidth"
+msgstr ""
+
+#: functions.php:1843
+msgid " Both Sidebar"
+msgstr ""
+
+#: functions.php:1849
+msgid "User Meta Profile"
+msgstr ""
+
+#: functions.php:1858
+msgid "Avatar"
+msgstr ""
+
+#: functions.php:1859
+msgid "field description (optional)"
+msgstr ""
+
+#: functions.php:1867
+msgid "Facebook"
+msgstr ""
+
+#: functions.php:1868
+msgid "Your Facebook Link (optional)"
+msgstr ""
+
+#: functions.php:1877
+msgid "Google"
+msgstr ""
+
+#: functions.php:1878
+msgid "Your Google Link (optional)"
+msgstr ""
+
+#: functions.php:1886
+msgid "Twitter"
+msgstr ""
+
+#: functions.php:1887
+msgid "Your Twitter Link (optional)"
+msgstr ""
+
+#: functions.php:1895
+msgid "Youtube"
+msgstr ""
+
+#: functions.php:1896
+msgid "Your Youtube Link (optional)"
+msgstr ""
+
+#: functions.php:1904
+msgid "Linkedin"
+msgstr ""
+
+#: functions.php:1905
+msgid "Your Linkedin Link (optional)"
+msgstr ""
+
+#: functions.php:1913
+msgid "Instagram"
+msgstr ""
+
+#: functions.php:1914
+msgid "Your Instagram Link (optional)"
+msgstr ""
+
+#: functions.php:1922
+msgid "Dribbble"
+msgstr ""
+
+#: functions.php:1923
+msgid "Your Dribbble Link (optional)"
+msgstr ""
+
+#: functions.php:1932
+msgid "Page Options"
+msgstr ""
+
+#: functions.php:2107
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:2110
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:2112
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:2117
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions.php:2160
+msgid "Category Name Background Color"
+msgstr ""
+
+#: functions.php:2289
+msgid "Your Username"
+msgstr ""
+
+#: functions.php:2297
+msgid "Your Email Adress"
+msgstr ""
+
+#: functions.php:2305
+msgid "Your Password"
+msgstr ""
+
+#: functions.php:2312
+msgid "Confirm Password"
+msgstr ""
+
+#: vc_functions.php:6
+msgid "QK Image"
+msgstr ""
+
+#: vc_functions.php:9 vc_functions.php:60 vc_functions.php:147
+#: vc_functions.php:237 vc_functions.php:294 vc_functions.php:378
+#: vc_functions.php:428 vc_functions.php:474 vc_functions.php:553
+#: vc_functions.php:616 vc_functions.php:669 vc_functions.php:706
+#: vc_functions.php:751 vc_functions.php:791 vc_functions.php:836
+#: vc_functions.php:955 vc_functions.php:1023 vc_functions.php:1102
+#: vc_functions.php:1163 vc_functions.php:1225 vc_functions.php:1288
+#: vc_functions.php:1341 vc_functions.php:1408 vc_functions.php:1484
+#: vc_functions.php:1561 vc_functions.php:1662 vc_functions.php:1755
+#: vc_functions.php:1811
+msgid "Content"
+msgstr ""
+
+#: vc_functions.php:19
+msgid "Image"
+msgstr ""
+
+#: vc_functions.php:27
+msgid "Caption"
+msgstr ""
+
+#: vc_functions.php:57
+msgid "QK Posts Carousel"
+msgstr ""
+
+#: vc_functions.php:68 vc_functions.php:163 vc_functions.php:245
+#: vc_functions.php:302 vc_functions.php:394 vc_functions.php:800
+#: vc_functions.php:966 vc_functions.php:1034 vc_functions.php:1113
+#: vc_functions.php:1174 vc_functions.php:1244 vc_functions.php:1427
+#: vc_functions.php:1503 vc_functions.php:1580 vc_functions.php:1681
+#: vc_functions.php:1766
+msgid "Select Category"
+msgstr ""
+
+#: vc_functions.php:78 vc_functions.php:181 vc_functions.php:255
+#: vc_functions.php:312 vc_functions.php:404 vc_functions.php:498
+msgid "Order"
+msgstr ""
+
+#: vc_functions.php:86
+msgid "Number posts each slide"
+msgstr ""
+
+#: vc_functions.php:94 vc_functions.php:189 vc_functions.php:579
+#: vc_functions.php:923 vc_functions.php:992
+msgid "Custom Class"
+msgstr ""
+
+#: vc_functions.php:102 vc_functions.php:205 vc_functions.php:263
+#: vc_functions.php:412 vc_functions.php:651 vc_functions.php:733
+#: vc_functions.php:1376 vc_functions.php:1630
+msgid "Thumbnail Size"
+msgstr ""
+
+#: vc_functions.php:110
+msgid "Filter Style"
+msgstr ""
+
+#: vc_functions.php:144
+msgid "QK Posts Carousel 2"
+msgstr ""
+
+#: vc_functions.php:154 vc_functions.php:1235 vc_functions.php:1350
+#: vc_functions.php:1418 vc_functions.php:1494 vc_functions.php:1571
+#: vc_functions.php:1672
+msgid "Custom Title"
+msgstr ""
+
+#: vc_functions.php:172
+msgid "Or Insert your category IDs Here:"
+msgstr ""
+
+#: vc_functions.php:197
+msgid "Items each Slide"
+msgstr ""
+
+#: vc_functions.php:234
+msgid "QK Featurred Carousel"
+msgstr ""
+
+#: vc_functions.php:291
+msgid "QK Top Carousel"
+msgstr ""
+
+#: vc_functions.php:320 vc_functions.php:1070
+msgid "Thumbnail"
+msgstr ""
+
+#: vc_functions.php:333
+msgid "QK Posts Slider"
+msgstr ""
+
+#: vc_functions.php:343
+msgid "Block custom class"
+msgstr ""
+
+#: vc_functions.php:375
+msgid "QK Featurred Slider"
+msgstr ""
+
+#: vc_functions.php:385
+msgid "Custom title"
+msgstr ""
+
+#: vc_functions.php:425
+msgid "QK Slider caption"
+msgstr ""
+
+#: vc_functions.php:436 vc_functions.php:482
+msgid "IDs"
+msgstr ""
+
+#: vc_functions.php:445
+msgid "Multiple categories filter:"
+msgstr ""
+
+#: vc_functions.php:471
+msgid "QK Slider caption 2"
+msgstr ""
+
+#: vc_functions.php:490
+msgid "Or Select Category"
+msgstr ""
+
+#: vc_functions.php:512
+msgid "QK Heading News"
+msgstr ""
+
+#: vc_functions.php:522
+msgid "Class"
+msgstr ""
+
+#: vc_functions.php:550
+msgid "QK Post"
+msgstr ""
+
+#: vc_functions.php:563 vc_functions.php:626
+msgid "Insert Post ID"
+msgstr ""
+
+#: vc_functions.php:571 vc_functions.php:634
+msgid "Or get latest post from Category"
+msgstr ""
+
+#: vc_functions.php:587
+msgid "Thumbnail Image Size"
+msgstr ""
+
+#: vc_functions.php:613
+msgid "QK Post 2"
+msgstr ""
+
+#: vc_functions.php:643 vc_functions.php:688 vc_functions.php:725
+msgid "Wrap Tag"
+msgstr ""
+
+#: vc_functions.php:666
+msgid "QK Post 3"
+msgstr ""
+
+#: vc_functions.php:679 vc_functions.php:716 vc_functions.php:761
+msgid "Post ID"
+msgstr ""
+
+#: vc_functions.php:703
+msgid "QK Post 4"
+msgstr ""
+
+#: vc_functions.php:748
+msgid "QK Standard"
+msgstr ""
+
+#: vc_functions.php:788
+msgid "QK Top Stories"
+msgstr ""
+
+#: vc_functions.php:809 vc_functions.php:845 vc_functions.php:975
+#: vc_functions.php:1052 vc_functions.php:1122 vc_functions.php:1183
+#: vc_functions.php:1253 vc_functions.php:1436 vc_functions.php:1512
+#: vc_functions.php:1589 vc_functions.php:1690 vc_functions.php:1775
+msgid "Number Posts"
+msgstr ""
+
+#: vc_functions.php:817
+msgid "Block Tag"
+msgstr ""
+
+#: vc_functions.php:832
+msgid "QK Sticker Posts"
+msgstr ""
+
+#: vc_functions.php:853
+msgid "Sticker lable"
+msgstr ""
+
+#: vc_functions.php:866
+msgid "QK Carousel Block 1"
+msgstr ""
+
+#: vc_functions.php:876 vc_functions.php:900
+msgid "Block Title"
+msgstr ""
+
+#: vc_functions.php:890
+msgid "QK Carousel Block 2"
+msgstr ""
+
+#: vc_functions.php:914
+msgid "QK Big Carousel"
+msgstr ""
+
+#: vc_functions.php:952
+msgid "QK Posts 1"
+msgstr ""
+
+#: vc_functions.php:984 vc_functions.php:1061 vc_functions.php:1131
+#: vc_functions.php:1192 vc_functions.php:1262 vc_functions.php:1445
+#: vc_functions.php:1521 vc_functions.php:1598 vc_functions.php:1699
+#: vc_functions.php:1784
+msgid "Post Offset"
+msgstr ""
+
+#: vc_functions.php:1020
+msgid "QK Posts 2"
+msgstr ""
+
+#: vc_functions.php:1043
+msgid "Or multiple categories filter:"
+msgstr ""
+
+#: vc_functions.php:1099
+msgid "QK Posts 3"
+msgstr ""
+
+#: vc_functions.php:1160
+msgid "QK Posts 4"
+msgstr ""
+
+#: vc_functions.php:1222
+msgid "QK Posts grid"
+msgstr ""
+
+#: vc_functions.php:1270 vc_functions.php:1453 vc_functions.php:1529
+msgid "Page pagination"
+msgstr ""
+
+#: vc_functions.php:1285
+msgid "QK Ad Box"
+msgstr ""
+
+#: vc_functions.php:1298
+msgid "Large Screen"
+msgstr ""
+
+#: vc_functions.php:1306
+msgid "Medium Screen"
+msgstr ""
+
+#: vc_functions.php:1314
+msgid "Small Screen"
+msgstr ""
+
+#: vc_functions.php:1322
+msgid "Link"
+msgstr ""
+
+#: vc_functions.php:1338
+msgid "QK Gallery Box"
+msgstr ""
+
+#: vc_functions.php:1359
+msgid "Add images"
+msgstr ""
+
+#: vc_functions.php:1368
+msgid "Or insert Post IDs"
+msgstr ""
+
+#: vc_functions.php:1405
+msgid "QK Posts 2Col"
+msgstr ""
+
+#: vc_functions.php:1481
+msgid "QK Posts 2Col 2"
+msgstr ""
+
+#: vc_functions.php:1558
+msgid "QK Posts Lists"
+msgstr ""
+
+#: vc_functions.php:1606 vc_functions.php:1707 vc_functions.php:1792
+msgid "order"
+msgstr ""
+
+#: vc_functions.php:1614 vc_functions.php:1715
+msgid "Show Rating "
+msgstr ""
+
+#: vc_functions.php:1622 vc_functions.php:1723
+msgid "Thumbnail Column"
+msgstr ""
+
+#: vc_functions.php:1659
+msgid "QK Posts Lists 2"
+msgstr ""
+
+#: vc_functions.php:1752
+msgid "QK Posts Full"
+msgstr ""
+
+#: vc_functions.php:1808
+msgid "QK Gmap"
+msgstr ""
+
+#: vc_functions.php:1820
+msgid "Latitude"
+msgstr ""
+
+#: vc_functions.php:1829
+msgid "Longitude"
+msgstr ""
+
+#: vc_functions.php:1853
+msgid "Home Default 1"
+msgstr ""
+
+#: vc_functions.php:1868
+msgid "Home Default 2"
+msgstr ""
+
+#: vc_functions.php:1882
+msgid "Home Default 3"
+msgstr ""
+
+#: vc_functions.php:1897
+msgid "Home Default 4"
+msgstr ""
+
+#: vc_functions.php:1912
+msgid "Home Default 5"
+msgstr ""
+
+#: vc_functions.php:1927
+msgid "Home Default 6"
+msgstr ""
+
+#: vc_functions.php:1942
+msgid "Home Fashion"
+msgstr ""
+
+#: vc_functions.php:1956
+msgid "Home Sport"
+msgstr ""
+
+#: vc_functions.php:1971
+msgid "Home Game"
+msgstr ""
+
+#: vc_functions.php:1986
+msgid "Home Tech"
+msgstr ""
+
+#: vc_functions.php:2001
+msgid "Home Design"
+msgstr ""
+
+#: vc_functions.php:2015
+msgid "Home Travel"
+msgstr ""
+
+#: vc_functions.php:2030
+msgid "Home Plitics"
+msgstr ""
+
+#: vc_functions.php:2046
+msgid "Home Video"
+msgstr ""
+
+#: vc_functions.php:2062
+msgid "Home ShowBiz"
+msgstr ""
+
+#: vc_templates/qk_posts_2col.php:131 vc_templates/qk_posts_2col2.php:131
+msgid "View more"
+msgstr ""
+
+#: vc_templates/qk_posts_2col.php:204 vc_templates/qk_posts_list.php:173
+msgid "Show me More"
+msgstr ""
